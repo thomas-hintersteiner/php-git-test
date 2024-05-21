@@ -1,6 +1,6 @@
 <?php
     // names that should be displayed
-    $names = ['Susi Musterfrau', 'Max Mustermann', 'Jane Doe'];
+    $names = ['Hansi Hinterseer', 'Susi Musterfrau', 'Max Mustermann', 'Jane Doe'];
 ?>
 
 <!DOCTYPE html>
