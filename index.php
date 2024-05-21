@@ -1,4 +1,5 @@
 <?php
+    // names that should be displayed
     $names = ['Susi Musterfrau', 'Max Mustermann', 'Jane Doe'];
 ?>
 
